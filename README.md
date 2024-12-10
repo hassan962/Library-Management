@@ -1,4 +1,4 @@
-📚 Library Management System (Flask + MySQL)
+**📚 Library Management System (Flask + MySQL)**
 
 A complete backend solution for managing users, books, and borrow requests in a library. This system allows librarians (admins) to manage users and approve or deny borrow requests, while library users can request books and view their borrowing history. The project is built using Flask, MySQL (via PyMySQL), and JWT-based authentication.
 
@@ -24,9 +24,9 @@ Library User Features
 
 🛠️ Tech Stack
 
-Backend: Flask (Python)
+- Backend: Flask (Python)
 
-Database: MySQL (via PyMySQL)
+- Database: MySQL (via PyMySQL)
 
-Authentication: JWT (JSON Web Token) for user authentication
+- Authentication: JWT (JSON Web Token) for user authentication
 
